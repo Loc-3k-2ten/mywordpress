@@ -64,10 +64,8 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 						<span class="screen-reader-text">Ngôn ngữ</span>
 					</label>
 
-					<br>
-<b>Warning</b>:  Đã xảy ra lỗi không mong muốn. Có thể có sự cố với WordPress.org hoặc cấu hình của máy chủ. Nếu bạn tiếp tục gặp sự cố, vui lòng thử hỏi trong <a href="https://wordpress.org/support/forums/">diễn đàn hỗ trợ</a>. (WordPress không thể thiết lập kết nối an toàn tới WordPress.org. Vui lòng liên hệ quản trị máy chủ của bạn.) in <b>C:\xampp\htdocs\myproject\wordpress\wp-admin\includes\translation-install.php</b> on line <b>68</b><br>
-<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
-<option value="vi" lang="" selected data-installed="1">vi</option></select>
+					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
+<option value="vi" lang="vi" selected data-installed="1">Tiếng Việt</option></select>
 					
 					
 					
